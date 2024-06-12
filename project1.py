@@ -8,7 +8,7 @@ cal.title("Calculator")
 
 #>>>>>>>>>>>>>>>>>>>>>>>>>>functions>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 def about():
-    messagebox.showinfo('About'," \n Created by JYOTI PANDEY \n \n  linkedin :\n  https://linkedin.com/in/jyotipandey11")
+    messagebox.showinfo('About'," \n Created by PALAK MEHROTRA\n \n  )
 
 def click_button(item):                                           # 'click_button' function continuously updates the input field whenever you enters a number
     global expression
