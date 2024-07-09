@@ -1,0 +1,4 @@
+It is a simple weather forecast application that gives the 
+current wearther conditions along with the forecast for the next few days
+when user enters the name of the city.
+It displays temperature, humidity, wind speed and other relevant weather information.
